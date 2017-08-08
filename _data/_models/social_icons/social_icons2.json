@@ -1,1 +1,6 @@
-{"icon":"fa fa-twitter", "name":"Twitter", "link_url":"https://twitter.com","order":2}
+{
+  "icon": "fa fa-twitter",
+  "name": "Twitter",
+  "link_url": "https://twitter.com/social",
+  "order": 2
+}
